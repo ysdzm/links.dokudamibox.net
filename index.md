@@ -12,6 +12,8 @@
 flowchart LR
     root["<a href='https://dokudamibox.net'>dokudamibox.net</a>"]
     blog["<a href='https://blog.dokudamibox.net'>blog.dokudamibox.net</a>"]
+    x63["<a href='https://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.dokudamibox.net'>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.dokudamibox.net</a>"]
 
-    root --- blog
+    root --> blog
+    root --> x63
 ```
