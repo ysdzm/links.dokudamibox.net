@@ -11,9 +11,9 @@
 ```mermaid
 flowchart LR
     root["<a href='https://dokudamibox.net'>dokudamibox.net</a>"]
-    blog["<a href='https://blog.dokudamibox.net'>blog.dokudamibox.net</a>"]
+    links["<a href='https://links.dokudamibox.net'>blog.dokudamibox.net</a>"]
     x63["<a href='https://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.dokudamibox.net'>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.dokudamibox.net</a>"]
 
-    root --> blog
+    root --> links
     root --> x63
 ```
